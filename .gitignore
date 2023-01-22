@@ -130,6 +130,7 @@ dmypy.json
 
 # Adding config.py files
 config.py
+config.js
 
 # Ignore Mac and Linux files
 .DS_Store
