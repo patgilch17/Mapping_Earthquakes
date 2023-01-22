@@ -126,4 +126,11 @@ venv.bak/
 dmypy.json
 
 # Pyre type checker
-.pyre/
+.pyre
+
+# Adding config.py files
+config.py
+
+# Ignore Mac and Linux files
+.DS_Store
+.*.swp
